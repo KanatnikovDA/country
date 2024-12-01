@@ -2,7 +2,6 @@ package guru.qa.country.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import guru.qa.country.data.CountryEntity;
-import jakarta.persistence.Entity;
 
 import java.util.Date;
 
